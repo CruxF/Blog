@@ -47,5 +47,5 @@
 
 2018-03-02 >> [移动web开发适配秘籍Rem](https://github.com/CruxF/IMOOC/issues/3)
 
-### 
+### April
 2018-04-28 >> [Promise初入门径](https://github.com/CruxF/Blog/issues/7)
